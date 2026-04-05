@@ -9,5 +9,6 @@
 5. Методы оптимизации (случайный поиск, имитация отжига, дифференциальная эволюция)
 
 # Файлы
-1. stochastic_a_tulegenov.ipynb – код обоих частей практикумма
-2. stochastic_a_tulegenov.pdf – отчет
+1. stochastic_analysis_tulegenov.ipynb – код обоих частей практикумма
+2. stochastic_analysis_tulegenov.pdf – отчёт
+3. stochastic_analysis_tulegenov.tex - Latex отчёт
